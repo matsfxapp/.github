@@ -8,7 +8,7 @@ Our Twitter [@matsfxmusic](https://twitter.com/matsfxmusic)
 
 Our TikTok [@matsfxmusic](https://tiktok.com/@matsfxmusic)
 
-🍄 Funny thig to mention, im the only men behind this project lol
+🍄 Funny thing to mention, im the only men behind this project lol
 
 ## Languages and Tools:
 
