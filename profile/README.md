@@ -2,7 +2,7 @@
 
 <img class="matsfx-logo" width="25" alt="matsfx_logo" src="https://github.com/user-attachments/assets/730d9753-a1ff-4bb9-abb3-a3d5a86b8a3f"> A modern, web-based music streaming platform.
 
-Before using the matSFX code, please read our [License](LICENSE).
+Before using the matSFX code, please read our [License](LICENSE.md).
 
 ---
 
