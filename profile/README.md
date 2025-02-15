@@ -31,10 +31,16 @@ Before using the **matSFX** code, please review our **[License](LICENSE.md)**.
 </p>  
 
 <p align="center">
-  <a href="https://tiktok.com/@matsfxmusic">
+  <a href="https://tiktok.com/@matsfxapp">
     <img src="https://img.shields.io/badge/Follow%20Us%20on%20TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge">
   </a>
-</p>  
+</p>
+
+<p align="center">
+  <a href="https://youtube.com/@matsfxapp">
+    <img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge">
+  </a>
+</p>
 
 ---
 
