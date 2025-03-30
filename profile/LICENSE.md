@@ -1,8 +1,27 @@
-# matSFX License - as of 11th January 2024
+# matSFX License – as of 30th March 2025
 
 Copyright (c) 2024-2025 matSFX
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, modify, and distribute the Software, subject to the following conditions:
+---
+
+### Summary  
+This software is open source, but **not public domain**.
+
+You are allowed to:
+- Use, modify, and share the code  
+- Build your own projects based on it
+
+You are **not allowed** to:
+- Use the name “matSFX” or its logos  
+- Copy the exact design or branding  
+- Keep the original contact info  
+- Distribute without proper attribution
+
+**Make it your own** if you fork it—respect the work behind this project.
+
+---
+
+## License Terms
 
 1. **Name and Branding Requirements**
    - The name "matSFX" is copyrighted and must not be used in any derivative work or redistribution of this Software. The user is required to rename the project to a unique and distinct name.
@@ -27,5 +46,17 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 6. **Warranty Disclaimer**
    - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+### Violation Consequences  
+Failure to follow this license may result in:
+- DMCA takedown requests or platform-level removals  
+- Public notice of license violations  
+- Legal action depending on the severity
+
+Respect the license. Keep open source fair and ethical.
+
+---
 
 By using, modifying, or redistributing this Software, you agree to the terms of this license.
